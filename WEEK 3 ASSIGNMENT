@@ -1,0 +1,10 @@
+Q. Write hello world
+
+Desired Output
+hello world
+
+Code - 
+print("Hello World")
+**************
+Your Output
+hello world
